@@ -1,0 +1,182 @@
+/*
+================================
+            CircularStd
+================================
+*/
+@font-face {
+  font-family: 'CircularStd';
+  font-weight: 400;
+  font-style: normal;
+  src: url("/fonts/CircularStd/CircularStd-Book.otf") format("opentype");
+  /* src: local('CircularStd'), url('CircularStd-Book.otf') format('opentype'); */
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  font-weight: 500;
+  font-style: normal;
+  src: url("/fonts/CircularStd/CircularStd-Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: 'CircularStd';
+  font-weight: 700;
+  font-style: normal;
+  src: url("/fonts/CircularStd/CircularStd-Bold.otf") format("opentype");
+}
+
+ 
+/*
+================================
+            CAIRO
+================================
+*/
+
+/* Cairo 400 */
+@font-face {
+  font-family: "Cairo";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/Cairo/Cairo-Regular.ttf") format("truetype");
+}
+
+/* Cairo 500 */
+@font-face {
+  font-family: "Cairo";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/Cairo/Cairo-Medium.ttf") format("truetype");
+}
+
+/* Cairo 600 */
+@font-face {
+  font-family: "Cairo";
+  font-style: normal;
+  font-weight: 600;
+  src: url("/fonts/Cairo/Cairo-SemiBold.ttf") format("truetype");
+}
+
+/* Cairo 700 */
+@font-face {
+  font-family: "Cairo";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/Cairo/Cairo-Bold.ttf") format("truetype");
+}
+
+/* Cairo 800 */
+@font-face {
+  font-family: "Cairo";
+  font-style: normal;
+  font-weight: 800;
+  src: url("/fonts/Cairo/Cairo-Black.ttf") format("truetype");
+}
+
+/*
+================================
+       NotoKufiArabic
+================================
+*/
+
+/* NotoKufiArabic 400 */
+@font-face {
+  font-family: "NotoKufiArabic";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/NotoKufiArabic/NotoKufiArabic-Regular.ttf") format("truetype");
+}
+
+/* NotoKufiArabic 500 */
+@font-face {
+  font-family: "NotoKufiArabic";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/NotoKufiArabic/NotoKufiArabic-Medium.ttf") format("truetype");
+}
+
+/* NotoKufiArabic 600 */
+@font-face {
+  font-family: "NotoKufiArabic";
+  font-style: normal;
+  font-weight: 600;
+  src: url("/fonts/NotoKufiArabic/NotoKufiArabic-SemiBold.ttf") format("truetype");
+}
+
+/* NotoKufiArabic 700 */
+@font-face {
+  font-family: "NotoKufiArabic";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/NotoKufiArabic/NotoKufiArabic-Bold.ttf") format("truetype");
+}
+
+/* NotoKufiArabic 800 */
+@font-face {
+  font-family: "NotoKufiArabic";
+  font-style: normal;
+  font-weight: 800;
+  src: url("/fonts/NotoKufiArabic/NotoKufiArabic-Black.ttf") format("truetype");
+}
+
+/*
+================================
+            Public Sans
+================================
+*/
+
+/* Public Sans 400 */
+@font-face {
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("/fonts/PublicSans/PublicSans-Regular.ttf") format("truetype");
+}
+
+/* Public Sans 500 */
+@font-face {
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 500;
+  src: url("/fonts/PublicSans/PublicSans-Medium.ttf") format("truetype");
+}
+
+/* Public Sans 600 */
+@font-face {
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 600;
+  src: url("/fonts/PublicSans/PublicSans-SemiBold.ttf") format("truetype");
+}
+
+/* Public Sans 700 */
+@font-face {
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("/fonts/PublicSans/PublicSans-Bold.ttf") format("truetype");
+}
+
+/* Public Sans 800 */
+@font-face {
+  font-family: "Public Sans";
+  font-style: normal;
+  font-weight: 800;
+  src: url("/fonts/PublicSans/PublicSans-Black.ttf") format("truetype");
+}
+
+
+
+
+/*
+================================
+            Barlow
+================================
+*/
+
+/* Barlow 900 */
+@font-face {
+  font-family: "Barlow";
+  font-style: normal;
+  font-weight: 900;
+  src: url("/fonts/Barlow/Barlow-Black.ttf") format("truetype");
+}
